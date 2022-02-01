@@ -1,13 +1,13 @@
 {
     "project_name": "st21-what-the-wine",
     "project_name_full": "What The Wine",
-    "project_description": "[project_description]",
-    "project_video_url": "[project_video_url]",
-    "project_prototype_url": "[project_protype_url]",
+    "project_description": "https://github.com/faketechlabsberlin/st21-what-the-wine/blob/main/What%20the%20Wine%20-%20Final%20Presentation.pdf",
+    "project_video_url": null,
+    "project_prototype_url": null,
     "techlabs_url": "https://techlabs.org/",
-    "techlabs_location": "[Berlin]",
-    "techlabs_semester": "[WiSe2021]",
-    "project_status": "[searching for funding]",
+    "techlabs_location": "Berlin",
+    "techlabs_semester": "Winter 2021",
+    "project_status": "searching for funding",
     "project_tools": ["Notion", "Fondora", "Postman"],
     "project_members_contacts": [
         {
@@ -16,8 +16,8 @@
             "track": "UX",
             "github_name": "Ebunmeroyi",
             "github_url": "https://github.com/Ebunmeroyi",
-            "linkedin_url": "https://linkedin",
-            "email_adress": "Nickname1@provider.com",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         },
         {"name": "Niki",
@@ -25,8 +25,8 @@
             "track": "UX",
             "github_name": "Nikilii",
             "github_url": "https://github.com/Nikilii",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         },
         {"name": "Ngoc",
@@ -34,8 +34,8 @@
             "track": "UX",
             "github_name": "ndoanthi",
             "github_url": "https://github.com/ndoanthi",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         },
         {"name": "Moomia",
@@ -43,8 +43,8 @@
             "track": "WD",
             "github_name": "Moomia",
             "github_url": "https://github.com/Moomia",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         },
         {"name": "Ostend",
@@ -52,8 +52,8 @@
             "track": "WD",
             "github_name": "Ostend",
             "github_url": "https://github.com/Ostend",
-            "linkedin_url": "linkedin_url",
-            "email_adress": "email_adress",
+            "linkedin_url": null,
+            "email_adress": null,
             "display": true
         }
         ]
